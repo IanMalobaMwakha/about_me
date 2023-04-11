@@ -1,9 +1,7 @@
 # about_me
 <html>
   <head>
-    <style>
-      h1{color: blue}
-    </style>
+    
   </head>
   <body>
     <p>
@@ -23,6 +21,27 @@ Ian is a highly motivated individual with a strong passion for coding. He has be
       </a><a href="https://msng.link/o/?@malobaian=tg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width=20px/>
       </a></p>
     </div>
+  
+  
+  <br>
+<br>
+<br>
+<br>
+<input type = "button"
+       value = "Like it? Give a thumbs up👍"
+       text-align = "right"
+       onclick = "alert('I APPRECIATE IT, THANKS🙏!!')">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+    <a href="https://codepen.io/ianmalobamwakha/pens/public"target="_blank"><button><em>Follow me on codepen.io</em></button></a>
+<br>
+<br>
+<em><b> By Ian Maloba © All rights reserved 2023.®</b> With love from Nairobi, Kenya.</em>
+<br>
   
      
   </body>

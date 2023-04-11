@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-      href="styles.css"
+      <link rel="stylesheet" href=".css" media=”screen” />
     </style>
   </head>
   <body>

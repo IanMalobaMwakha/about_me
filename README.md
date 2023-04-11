@@ -1,6 +1,7 @@
 # about_me
 <html>
   <head>
+    <link rel="stylesheet" href="about.css">
      <p>
       Hola Amigos 👋!
     </p>

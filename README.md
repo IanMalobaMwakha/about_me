@@ -1,9 +1,7 @@
 # about_me
 <html>
   <head>
-    <style>
       <link rel="stylesheet" href=".css" media=”screen” />
-    </style>
   </head>
   <body>
     <p>

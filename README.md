@@ -4,7 +4,7 @@
     <p>
       Hola Amigos!
     </p>
-        <div class = "topHeader">
+    <div class = "topHeader">
   <h1>About Ian Maloba Mwakha</h1>
       <p><em><b>By: Ian Maloba Mwakha.</b></em> April, 2023</p>
         <p>In brief, Ian is a 20 year old male living in Nairobi. Born on January 4th 2003 in Nairobi, Kenya.

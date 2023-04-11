@@ -4,6 +4,38 @@
       <link rel="stylesheet" href=".css" media=”screen” />
   </head>
   <body>
+    <div class = "topHeader">
+  <h1>Ian Maloba's Interests.</h1>
+      <p><em><b>By: Ian Maloba Mwakha.</b></em> April, 2023</p>
+        <p>In brief, Ian is a 20 year old male living in Nairobi, Kenya with a strong passion for watching movies, listening to music, coding, and traveling. I have watched a wide range of movies, with "Poker Night" being one of my favorites, and I enjoy listening to a variety of genres of music, from pop to rock. Coding has been an interest of mine for a few years now, I have a good understanding and hands-on experience with few programming languages i.e Python, Java and Javascript and some frameworks-MERN Stack for full stack web development. Traveling is another passion of mine, and I have visited various places around the world, each offering a unique experience. Overall, I am an individual who values exploring new things and gaining new perspectives, while also enjoying the simple pleasures in life.<p>
+    <img src="https://thumbs.dreamstime.com/b/man-sitting-standing-mountain-sunset-evening-time-sun-light-sunbeam-sunray-man-sitting-standing-159076037.jpg"width= 250px class="myImage"/></p>
+    
+    <b>Contact me: </b><a href="https://www.linkedin.com/in/ianmalobamwakha/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" width=17px/></a>
+    <a href="ianmalobamwakha@gmail.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThMp_w31QIxPkclKoeQk_LwqWqYLBVKX2cnAybUvi0gQ&s" width=20px/>
+      </a><a href="https://github.com/IanMalobaMwakha" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=20px/>
+      </a><a href="https://api.whatsapp.com/send?phone=254746883374&text=Hello,%20this%20is%20Ian.%20Thank%20you%20for%20contacting%20me!" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" width=17px/>
+      </a><a href="https://msng.link/o/?@malobaian=tg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width=20px/>
+      </a></p>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <p>
       Hola Amigos!
     </p>

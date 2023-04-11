@@ -4,37 +4,7 @@
     
   </head>
   <body>
-    
-    <br>
-<br>
-<br>
-<br>
-<input type = "button"
-       value = "Like it? Give a thumbs up👍"
-       text-align = "right"
-       onclick = "alert('I APPRECIATE IT, THANKS🙏!!')">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-    <a href="https://codepen.io/ianmalobamwakha/pens/public"target="_blank"><button><em>Follow me on codepen.io</em></button></a>
-<br>
-<br>
-<em><b> By Ian Maloba © All rights reserved 2023.®</b> With love from Nairobi, Kenya.</em>
-<br>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     <p>
       Hola Amigos 👋!
     </p>
@@ -63,8 +33,7 @@ Ian is a highly motivated individual with a strong passion for coding. He has be
        text-align = "right"
        onclick = "alert('I APPRECIATE IT, THANKS🙏!!')">
 <br>
-<br>
-<br>
+
 <br>
 <br>
 <br>

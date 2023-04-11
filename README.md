@@ -1,13 +1,13 @@
 # about_me
 <html>
   <head>
-    
+     <p>
+      Hola Amigos 👋!
+    </p>
   </head>
   <body>
 
-    <p>
-      Hola Amigos 👋!
-    </p>
+   
     <div class = "topHeader">
   <h1>Ian Maloba's Interests.</h1>
       <p><em><b>By: Ian Maloba Mwakha.</b></em> April, 2023</p>

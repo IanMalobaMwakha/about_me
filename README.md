@@ -2,21 +2,7 @@
 <html>
   <head>
     <style>
-      h1{
-  text-align: center;
-  color: blue;
-}
-      .topHeader{
-  text-align: center;
-  background-color: AliceBlue;
-  border: solid;
-  border-width: 1px;
-  border-color: CornflowerBlue;
-  margin: 15px 2px 15px 2px;
-  padding: 5px 17px 5px 17px;
-  border-radius: 25px;
-  font-family: Verdana, Geneva, sans-serif;
-}
+      h1{color: red}
     </style>
   </head>
   <body>

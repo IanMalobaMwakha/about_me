@@ -1,7 +1,9 @@
 # about_me
 <html>
   <head>
-    <title>About Ian</title>
+    <style>
+      h1{color: blue}
+    </style>
   </head>
   <body>
     <p>

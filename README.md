@@ -21,7 +21,7 @@
  
     
  <p>
-      <b>Let's Connect! : </b><a href="https://www.linkedin.com/in/ianmalobamwakha/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" width=32px/></a>
+      <b>LET'S CONNECT!! : </b><a href="https://www.linkedin.com/in/ianmalobamwakha/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" width=32px/></a>
     <a href="ianmalobamwakha@gmail.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThMp_w31QIxPkclKoeQk_LwqWqYLBVKX2cnAybUvi0gQ&s" width=35px/>
       </a><a href="https://github.com/IanMalobaMwakha" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=35px/>
       </a><a href="https://api.whatsapp.com/send?phone=254746883374&text=Hello,%20this%20is%20Ian.%20Thank%20you%20for%20contacting%20me!" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" width=32px/>

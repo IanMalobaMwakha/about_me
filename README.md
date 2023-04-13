@@ -40,8 +40,6 @@
        onclick = "alert('I APPRECIATE IT, THANKS🙏!!')">
   
 <br>
-<br>
-<br>
     <a href="https://codepen.io/ianmalobamwakha/pens/public"target="_blank"><button><em>Follow me on codepen.io</em></button></a>
 <br>
 <br>

@@ -1,14 +1,13 @@
 # about_me
 <html>
- <body>
   <head>
+   <h1>Who is Ian Maloba Mwakha?</h1>
      <p>
       Hola Amigos 👋!
     </p>
   </head>
  
-
-    <h1>Who is Ian Maloba Mwakha?</h1>
+ <body>
     <p>
       <em><b>By: Ian Maloba Mwakha.</b></em> April, 2023
     </p>

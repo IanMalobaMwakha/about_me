@@ -1,11 +1,12 @@
 # about_me
 <html>
+ <body>
   <head>
      <p>
       Hola Amigos 👋!
     </p>
   </head>
-  <body>
+ 
 
     <h1>Who is Ian Maloba Mwakha?</h1>
     <p>

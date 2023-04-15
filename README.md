@@ -31,7 +31,7 @@
   </p> 
   
  <br>
-   <p><em>Thanks for taking your time to read about me :) Appreciate it.. ![image](https://user-images.githubusercontent.com/127621186/232201884-b8ae4aa1-add8-42fc-b7d1-ca8ea619dd8f.png)
+   <p><em>Thanks for taking your time to read about me :) I APPRECIATE IT... 🙏</em></p>
 
        
 <br>

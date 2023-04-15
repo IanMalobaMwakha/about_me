@@ -12,6 +12,7 @@
     <p>
       <em><b>By: Ian Maloba Mwakha.</b></em> April, 2023
     </p>
+   <hr>
    
    <p>
      In brief, Ian is a 20 year old male living in Nairobi. Born on January 4th 2003 in Nairobi, Kenya. Ian is a highly motivated individual with a strong passion for coding. He has been honing his skills in programming languages such as Java, Python, and Javascript and some frameworks like Django and MERN Stack for full stack web development for sometime now. Ian has a keen eye for detail and is always looking for ways to optimize and improve his code.</p>

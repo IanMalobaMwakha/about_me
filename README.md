@@ -38,6 +38,7 @@
 <br>
 <br> 
 <br>
+<hr>
     <a href="https://codepen.io/ianmalobamwakha/pens/public" target="_blank"><button><em>Follow me on codepen.io</em></button></a>
 <br>
 <br>

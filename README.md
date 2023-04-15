@@ -36,7 +36,7 @@
 <br>
 <br> 
 <br>
-    <a href="https://codepen.io/ianmalobamwakha/pens/public"target="_blank"><button><em>Follow me on codepen.io</em></button></a>
+    <a href="https://codepen.io/ianmalobamwakha/pens/public" target="_blank"><button><em>Follow me on codepen.io</em></button></a>
 <br>
 <br>
 <em><b> By Ian Maloba © All rights reserved 2023.®</b> With love from Nairobi, Kenya.</em>

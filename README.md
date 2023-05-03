@@ -3,7 +3,7 @@
     <h1><em>About Ian Maloba Mwakha...</em></h1>
     <br>
      <p>
-      Hola Amigos 👋
+      Hola Amigos 👋!
     </p>
     <br>
   </head>
